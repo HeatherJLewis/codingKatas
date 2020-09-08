@@ -1,0 +1,20 @@
+{
+  "name": "codingKatas",
+  "version": "1.0.0",
+  "description": "Coding katas for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeatherJLewis/codingKatas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeatherJLewis/codingKatas/issues"
+  },
+  "homepage": "https://github.com/HeatherJLewis/codingKatas#readme"
+}
